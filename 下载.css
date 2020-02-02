@@ -1,0 +1,194 @@
+.xz{
+    background-image: url(哔哩哔哩/bg1.png);
+    width: 100%;
+    height: 680px;
+}
+body{
+    overflow-x: hidden;
+}
+.xz .xz1{
+    position: absolute;
+    left: 670px;
+    top: 170px;
+}
+.xz .xz2{
+    position: absolute;
+    top: 320px;
+    left: 670px;
+    width: 220px;
+    height: 220px;
+    border-radius: 10px;
+}
+.xz .xz3 li img{
+    margin: 10px 10px;
+    float: left;
+    width: 130px;
+}
+.xz .xz3{
+    z-index: 3;
+    width: 300px;
+    position: absolute;
+    left: 900px;
+    top: 310px;
+}
+.xz .xz3 li:hover div img{
+    display: inline-block;
+}
+.xz .xz3 li .xz4 img{
+    display: none;
+}
+.xz .xz3 li .xz4 img{
+    width: 505px;
+    height: 742px;
+    position: absolute;
+    top: -250px;
+    left: -850px;
+}
+.xz .xz3 li .xz5 img{
+    display: none;
+}
+.xz .xz3 li .xz5{
+    position: absolute;
+}
+.xz .xz3 li .xz5 img{
+    width: 571px;
+    height: 384px;
+    position: absolute;
+    top: -150px;
+    left: -850px;
+}
+.xz .xz3:hover .xz6 img{
+    display: none;
+}
+.xz .xz3 .xz6 img{
+    width: 505px;
+    height: 742px;
+}
+.xz .xz3 .xz6{
+    width: 505px;
+    height: 742px;
+    position: absolute;
+    top: -240px;
+    left: -840px;
+}
+.xz .xz3 .xz6:hover img{
+    display: inline-block;
+}
+.xz .xz7{
+    width: 20px;
+    height: 251px;
+    position: absolute;
+    left: 1040px;
+    top: 320px;
+    z-index: 4;
+}
+.xz .xz8{
+    width: 280px;
+    height: 20px;
+    position: absolute;
+    left: 910px;
+    top: 368px;
+    z-index: 4;
+}
+.xz .xz9{
+    width: 280px;
+    height: 20px;
+    position: absolute;
+    left: 910px;
+    top: 435px;
+    z-index: 4;
+}
+.xz .xz10{
+    width: 280px;
+    height: 20px;
+    position: absolute;
+    left: 910px;
+    top: 503px;
+    z-index: 4;
+}
+.xz .xz11{
+    width: 280px;
+    height: 20px;
+    position: absolute;
+    left: 910px;
+    top: 571px;
+    z-index: 4;
+}
+.xz .xz12{
+    width: 280px;
+    height: 20px;
+    position: absolute;
+    left: 910px;
+    top: 300px;
+    z-index: 4;
+}
+.xz .xz13{
+    width: 20px;
+    height: 291px;
+    position: absolute;
+    left: 890px;
+    top: 300px;
+    z-index: 4;
+}
+.xz .xz14{
+    width: 20px;
+    height: 291px;
+    position: absolute;
+    left: 1190px;
+    top: 300px;
+    z-index: 4;
+}
+.xz15 img{
+    width: 100%;
+    height: 778px;
+    position: absolute;
+    z-index: 2;
+    top: 450px;
+}
+.xz16 img{
+    width: 50%;
+    height: 778px;
+    position: absolute;
+    z-index: 2;
+    top: 450px;
+    z-index: 4;
+}
+.xz ul li:hover .xxzz{
+    opacity: 0.7;
+}
+.xz30{
+    position: absolute;
+    z-index: 4;
+    margin-left: 50px;
+    margin-top: 200px;
+}
+.xz30 .xz36 li{
+    float: left;
+    margin-right: 180px;
+}
+.xz30 .xz36 div{
+    color: #6D757A;
+}
+.xz30 .xz36 div p{
+    font-size: 15px;
+}
+.xz37{
+    position: absolute;
+    left: 80px;
+}
+.xz38{
+    position: absolute;
+    left: 330px;
+}
+.xz39{
+    position: absolute;
+    left: 580px;
+}
+.xz40{
+    position: absolute;
+    left: 830px;
+}
+.xz41{
+    position: absolute;
+    left: 1080px;
+}

@@ -1,0 +1,3416 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: "微软雅黑"
+}
+.a{
+    height: 170px;
+    min-width: 1366px;
+    background-image: url(哔哩哔哩素材/a.png);
+}
+.a1{
+    min-width: 1366px;
+    min-height: 40px;
+    background-color: rgba(255, 255, 255, 0.4);
+}
+.a .a1 .a2 li a{
+    color: rgb(80, 80, 80);
+    padding: 0px 10px;
+    font-size: 13px;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+}
+.a .a1 .a2 li:hover a{
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.671);
+}
+/* 显示 */
+.a2 li:hover .a8{
+    display: block;
+}
+.a2 li:hover .a16{
+    display: block;
+}
+.a2 li:hover .a48{
+    display: block;
+}
+.a2 li:hover .a51{
+    display: block;
+}
+.a5 .a6 a img:hover{
+    width: 70px;
+    height: 70px;
+}
+.a5 .a6:hover .a52{
+    z-index: 5;
+    display: block;
+}
+/* 显示 */
+.a .a1 .a2{
+    margin-left: 150px;
+}
+.a3 a{
+    display: inline-block;
+    width: 35px;
+    text-align: right;
+    background-image: url(哔哩哔哩素材/icons.png);
+    background-repeat: no-repeat;
+    background-position: 0px 12px;
+}
+.a4 a{
+    display: inline-block;
+    width: 59px;
+    text-align: right;
+    background-image: url(哔哩哔哩素材/1ic23ons.png);
+    background-repeat: no-repeat;
+    background-position: 0px 12px;
+}
+.a .a1 .a5 li a{
+    color: rgb(80, 80, 80);
+    padding: 0px 10px;
+    font-size: 13px;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+}
+.a .a1 .a5 .aa:hover a{
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.671);
+}
+.a .a1 .a5{
+    margin-left: 820px;
+}
+.a .a1 .a5 .a6 a img{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    margin-top: 5px;
+    position: absolute;
+    left: 825px;
+}
+.a .a1 .a5 .a6:hover a img{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    z-index: 6;
+}
+.a .a1 .a5 .a6 a{
+    margin-right: 18px;
+    padding: 0px 20px;
+}
+.a8{
+    z-index: 5;
+    display: none;
+    background-image: url(哔哩哔哩素材/line.png);
+    background-repeat: no-repeat;
+    background-position: 264px 37px;
+    width: 478px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 40px;
+    left: 251px;
+}
+.a9{
+    margin-left: 10px;
+    margin-top: 10px;
+    position: absolute;
+}
+.a9 img{
+    border-radius: 10px;
+}
+.a9 p{
+    position: absolute;
+    left: 10px;
+    top: 105px;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+}
+.a10{
+    position: absolute;
+    top: 150px;
+    left: 10px;
+}
+.a10 ul li{
+    float: left;
+}
+.a10 ul li:hover span{
+    color: rgb(255, 198, 198);
+}
+.a10 ul .a11 img{
+    width: 64px;
+    height: 64px;
+    margin-left: 22px;
+}
+.a10 ul .a11 p{
+    width: 64px;
+    height: 21px;
+}
+.a12{
+    cursor: pointer;
+    position: absolute;
+    top: 65px;
+    left: 4px;
+}
+.a13{
+    cursor: pointer;
+    position: absolute;
+    top: 65px;
+    left: 85px;
+}
+.a14{
+    cursor: pointer;
+    position: absolute;
+    top: 65px;
+    left: 170px;
+}
+.a15{
+    position: absolute;
+    left: 270px;
+    top: 30px;
+}
+.a15 ul li{
+    line-height: 30px;
+}
+.a15 ul li:hover{
+    cursor: pointer;
+    background-color:rgba(200, 199, 199, 0.5)
+}
+.a15 ul li:hover div img{
+    display: block;
+}
+.a15 div img{
+    position: absolute;
+    top: -20px;
+    left: -5px;
+}
+.a15 ul{
+    border-left:1px #DEDEDE solid;
+}
+.a15 ul li div img{
+    margin-left: 205px;
+    margin-top: 10px;
+    display: none;
+}
+.a16{
+    z-index: 5;
+    display: none;
+    left: 323px;
+    top: 40px;
+    position: absolute;
+    width: 520px;
+    height: 240px;
+    background-color: rgb(255, 255, 255);
+}
+.a16 .a17 p{
+    color: rgb(253, 186, 186);
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+.a16 .a17 ul li img{
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+}
+.a17{
+    margin-top: 20px;
+    width: 300px;
+}
+.a19{
+    position: absolute;
+    top: 110px;
+    left: 15px;
+    cursor: pointer;
+}
+.a17 ul li:hover span{
+    color: rgb(179, 140, 140);
+}
+.a17 ul li:hover .a25{
+    display: block;
+    cursor: pointer;
+}
+.a17 ul li:hover .a29{
+    display: block;
+    cursor: pointer;
+}
+.a17 ul li:hover .a33{
+    display: block;
+    cursor: pointer;
+}
+.a17 ul li:hover .a36{
+    display: block;
+    cursor: pointer;
+}
+.a17 ul li:hover .a39{
+    display: block;
+    cursor: pointer;
+}
+.a17 ul li:hover .a42{
+    display: block;
+    cursor: pointer;
+}
+.a20{
+    position: absolute;
+    top: 110px;
+    left: 100px;
+    cursor: pointer;
+}
+.a21{
+    position: absolute;
+    top: 110px;
+    left: 175px;
+    cursor: pointer;
+}
+.a22{
+    position: absolute;
+    top: 200px;
+    left: 15px;
+    cursor: pointer;
+}
+.a23{
+    position: absolute;
+    top: 200px;
+    left:105px;
+    cursor: pointer;
+}
+.a24{
+    position: absolute;
+    top: 200px;
+    left:187px;
+    cursor: pointer;
+}
+.a17 ul li .a25{
+    display: none;
+    background-color: rgba(141, 139, 139, 0.5);
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+}
+.a17 ul li .a25 .a27{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(255, 145, 145);
+    border-radius: 100px;
+    position: absolute;
+    top: 24px;
+    left: 3px;
+}
+.a17 ul li .a25 .a28{
+    position: absolute;
+    top: 20px;
+    left: 22px;
+    color: rgb(255, 255, 255)
+}
+.a17 ul li .a29{
+    display: none;
+    background-color: rgba(141, 139, 139, 0.5);
+    position: absolute;
+    top: 50px;
+    left:100px;
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+}
+.a17 ul li .a29 .a31{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(255, 145, 145);
+    border-radius: 100px;
+    position: absolute;
+    top: 24px;
+    left: 3px;
+}
+.a17 ul li .a29 .a32{
+    position: absolute;
+    top: 20px;
+    left: 22px;
+    color: rgb(255, 255, 255)
+}
+.a17 ul li .a33{
+    display: none;
+    background-color: rgba(141, 139, 139, 0.5);
+    position: absolute;
+    top: 50px;
+    left:180px;
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+}
+.a17 ul li .a33 .a34{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(255, 145, 145);
+    border-radius: 100px;
+    position: absolute;
+    top: 24px;
+    left: 3px;
+}
+.a17 ul li .a33 .a35{
+    position: absolute;
+    top: 20px;
+    left: 22px;
+    color: rgb(255, 255, 255)
+}
+.a17 ul li .a36{
+    display: none;
+    background-color: rgba(141, 139, 139, 0.5);
+    position: absolute;
+    top: 140px;
+    left:20px;
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+}
+.a17 ul li .a36 .a37{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(255, 145, 145);
+    border-radius: 100px;
+    position: absolute;
+    top: 24px;
+    left: 3px;
+}
+.a17 ul li .a36 .a38{
+    position: absolute;
+    top: 20px;
+    left: 22px;
+    color: rgb(255, 255, 255)
+}
+.a17 ul li .a39{
+    display: none;
+    background-color: rgba(141, 139, 139, 0.5);
+    position: absolute;
+    top: 140px;
+    left:100px;
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+}
+.a17 ul li .a39 .a40{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(255, 145, 145);
+    border-radius: 100px;
+    position: absolute;
+    top: 24px;
+    left: 3px;
+}
+.a17 ul li .a39 .a41{
+    position: absolute;
+    top: 20px;
+    left: 22px;
+    color: rgb(255, 255, 255)
+}
+.a17 ul li .a42{
+    display: none;
+    background-color: rgba(141, 139, 139, 0.5);
+    position: absolute;
+    top: 140px;
+    left:180px;
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+}
+.a17 ul li .a42 .a43{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(255, 145, 145);
+    border-radius: 100px;
+    position: absolute;
+    top: 24px;
+    left: 3px;
+}
+.a17 ul li .a42 .a44{
+    position: absolute;
+    top: 20px;
+    left: 22px;
+    color: rgb(255, 255, 255)
+}
+.a18{
+    position: absolute;
+    left: 280px;
+}
+.a18 p{
+    color: rgb(253, 186, 186);
+    font-weight: bold;
+    position: absolute;
+    top: -11px;
+}
+.a18 .a45{
+    border-left: 1px rgb(141, 139, 139) solid;
+    margin-top: 10px;
+}
+.a18 .a45 img{
+    width: 200px;
+    height:70px;
+}
+.a18 .a45 .a46{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+.a18 .a45 .a47{
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.a18 .a45 .a46:hover{
+    background-color: rgba(141, 139, 139, 0.5);
+}
+.a18 .a45 .a47:hover{
+    background-color: rgba(141, 139, 139, 0.5);
+}
+.a48{
+    z-index: 5;
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 474px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.a48 .a49{
+    width: 375px;
+    height: 110px;
+    background-image: url(哔哩哔哩素材/069e7ec051a41e631e48178af103aabb33e2fb1a.jpg@.jpg)
+}
+.a48 .a49 p{
+    position: absolute;
+    left: 20px;
+    top:105px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.a48 .a50{
+    width: 375px;
+    height: 110px;
+    background-image: url(哔哩哔哩素材/1eba67af6b7221eafb9ca4221b52484fc57a4e7c.jpg@.jpg);
+    margin-top: 15px;
+}
+.a48 .a50 p{
+    position: absolute;
+    left: 20px;
+    top:228px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.a51{
+    z-index: 5;
+    display: none;
+    position: absolute;
+    top:40px;
+    left: 548px;
+    width:259px;
+    height: 174px;
+    background-image: url(哔哩哔哩素材/orcode-frame.png);
+    background-repeat: no-repeat;
+}
+.a51 img{
+    position: absolute;
+    top: 24px;
+    left: 75px;
+    width: 110px;
+    height: 108px;
+    border-radius: 5px;
+}
+.a5 .a6 .a52{
+    z-index: 5;
+    display: none;
+    position: absolute;
+    left: 730px;
+    z-index: 1;
+    top: 40px;
+    width: 250px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+}
+.a5 .a6 .a52 p{
+    font-weight: bold;
+    margin-top: 30px;
+    text-align: center;
+    color: #2C2C2C;
+    cursor: pointer;
+}
+.a5 .a6 .a52 .a53 ul .a54{
+    color: #2C2C2C;
+    float: left;
+    font-size: 15px;
+    padding-left: 40px;
+    padding-top: 21px;
+    background-image: url(哔哩哔哩素材/1i1cons.png);
+    background-repeat: no-repeat;
+    background-position: 20px 22px;
+    cursor: pointer;
+}
+.a5 .a6 .a52 .a53 ul .a55{
+    color: #2C2C2C;
+    float: left;
+    font-size: 15px;
+    padding-left: 40px;
+    padding-top: 21px;
+    background-image: url(哔哩哔哩素材/1ic1ons.png);
+    background-repeat: no-repeat;
+    background-position: 20px 22px;
+    cursor: pointer;
+}
+.a5 .a6 .a52 .a53 ul .a56{
+    float: left;
+    padding-left: 70px;
+    padding-top: 21px;
+}
+.a5 .a6 .a52 .a53 ul .a57{
+    float: left;
+    padding-left:5px;
+    padding-top: 21px;
+}
+.a58{
+    cursor: pointer;
+}
+.a5 .a6 .a52 .a58 span{
+    margin-top: 15px;
+    display: inline-block;
+    float: left;
+    font-size: 15px;
+    color: #2C2C2C;
+    margin-left: 15px;
+}
+.a5 .a6 .a52 .a58 .a59{
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: #F6C983;
+    position: absolute;
+    top: 111px;
+    left: 55px;
+    z-index: 3;
+    color: rgb(255, 255, 255);
+    line-height: 20px;
+    text-align: center;
+    font-weight: bold;
+    border: 1px rgb(195, 195, 195) solid;
+}
+.a5 .a6 .a52 .a58 .a60{
+    width: 100px;
+    height: 8px;
+    background-color: #F4C985;
+    border: 1px rgb(195, 195, 195) solid;
+    position: absolute;
+    top: 117px;
+    left: 60px;
+    z-index: 2;
+}
+.a5 .a6 .a52 .a58 .a61{
+    width: 100px;
+    height: 8px;
+    background-color: #EEEEEE;
+    border: 1px rgb(195, 195, 195) solid;
+    position: absolute;
+    top: 117px;
+    left: 130px;
+    z-index: 1;
+}
+.a5 .a6 .a52 .a58 .a62{
+    position: absolute;
+    top: 110px;
+    left: 140px;
+    font-size: 13px;
+}
+.a5 .a6 .a52 .a58 .a62 span{
+    position: absolute;
+    top: -15px;
+    left: 20px;
+    color: #DCDCDC;
+}
+.a5 .a6 .a52 .a63{
+    width: 100%;
+    clear: both;
+    position: absolute;
+    top: 160px;
+    border-top: 1px #DCDCDC solid;
+}
+.a5 .a6 .a52 .a63 .a64{
+    width: 100px;
+    float: left;
+}
+.a5 .a6 .a52 .a63 .a64 li{
+    display: inline-block;
+    margin-top: 15px;
+    padding-left: 30px;
+    color: #828282;
+}
+.a5 .a6 .a52 .a63 .a64 .a66{
+    background-image: url(哔哩哔哩素材/ico1ns1.png);
+    background-repeat: no-repeat;
+    background-position: 6px 0px;
+}
+.a5 .a6 .a52 .a63 .a64 .a66:hover{
+    cursor: pointer;
+    color: rgb(142, 239, 251);
+    background-image: url(哔哩哔哩素材/icons1.png)
+}
+.a5 .a6 .a52 .a63 .a64 .a67{
+    background-image: url(哔哩哔哩素材/icons11.png);
+    background-repeat: no-repeat;
+    background-position: 6px 5px;
+}
+.a5 .a6 .a52 .a63 .a64 .a67:hover{
+    cursor: pointer;
+    color: rgb(142, 239, 251);
+    background-image: url(哔哩哔哩素材/ico21n.png)
+}
+.a5 .a6 .a52 .a63 .a64 .a68{
+    background-image: url(哔哩哔哩素材/ic58ons.png);
+    background-repeat: no-repeat;
+    background-position: 6px 3px;
+}
+.a5 .a6 .a52 .a63 .a64 .a68:hover{
+    cursor: pointer;
+    color: rgb(142, 239, 251);
+}
+.a5 .a6 .a52 .a63 .a65{
+    width: 100px;
+    float: right;
+    margin-right: 20px;
+}
+.a5 .a6 .a52 .a63 .a65 li{
+    display: inline-block;
+    margin-top: 15px;
+    padding-left: 30px;
+    color: #828282;
+}
+.a5 .a6 .a52 .a63 .a65 .a69{
+    background-image: url(哔哩哔哩素材/icon5.png);
+    background-repeat: no-repeat;
+    background-position: 8px 3px;
+}
+.a5 .a6 .a52 .a63 .a65 .a69:hover{
+    color: rgb(142, 239, 251);
+    cursor: pointer;
+    background-image: url(哔哩哔哩素材/ico55.png);
+}
+.a5 .a6 .a52 .a63 .a65 .a70{
+    background-image: url(哔哩哔哩素材/ico125.png);
+    background-repeat: no-repeat;
+    background-position: 8px 3px;
+}
+.a5 .a6 .a52 .a63 .a65 .a70:hover{
+    color: rgb(142, 239, 251);
+    background-image: url(哔哩哔哩素材/1ico555ns.png);
+    cursor: pointer;
+}
+.a71{
+    width: 250px;
+    height: 20px;
+    background-color:rgba(195, 194, 194,0.5);
+    margin-top: 230px;
+}
+.a71 div{
+    display: inline-block;
+    margin-left: 215px;
+    line-height: 20px;
+    color: #828282;
+    cursor: pointer;
+}
+.a71 div:hover{
+    color: rgb(142, 239, 251);
+}
+.a72 a{
+    padding-top: 50px;
+    text-align: center;
+    width: 50px;
+    background-color: rgb(248, 153, 153);
+    border-radius: 0px 0px 10px 10px;
+}
+.a72 a:hover{
+    background-color: rgba(248, 153, 153,0.5);
+}
+.a73{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.a74 .a75 .a80{
+    position: absolute;
+    left: 850px;
+    top: 120px;
+    z-index: 1;
+    width: 68px;
+    height: 32px;
+    background-image: url(哔哩哔哩素材/ic156on5.png);
+    background-repeat: no-repeat;
+    background-position: 6px 7px;
+    background-color: rgba(255, 255, 255,0.8);
+    border-radius: 5px;
+    color: #FF4E8E;
+    font-size: 13px;
+    text-align: right;
+    line-height: 32px;
+}
+.a77 form input{
+    height: 32px;
+    color: #919293;
+    font-size: 15px;
+    position: absolute;
+    left: 925px;
+    top: 120px;
+    border-radius: 5px;
+    border: 0px;
+    opacity: 0.8;
+}
+.a77 .a78{
+    position: absolute;
+    left: 1130px;
+    top: 120px;
+    width: 48px;
+    height: 32px;
+    z-index: 2;
+    background-image: url(哔哩哔哩素材/1ic5ons.png);
+    background-repeat: no-repeat;
+    background-position: 8px 6px;
+    border-radius: 5px;
+}
+.a77 .a78:hover{
+    background-image: url(哔哩哔哩素材/1ic1o1ns.png);
+}
+.a77 form:hover input{
+    opacity: 1;
+}
+.b{
+    width: 1050px;
+    margin: 40px auto; 
+}
+.b1 ul .bb{
+    cursor: pointer;
+    font-size: 13px;
+    float: left;
+    padding: 0px 10px;
+}
+.b .b1 .b3{
+    margin-left: 4px;
+    margin-top: -35px;
+    width: 20px;
+    height: 20px;
+    background-image: url(哔哩哔哩素材/QQ截图20190601173033.png);
+    background-repeat: no-repeat;
+}
+.b .b1 .b4{
+    left: 211px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b5{
+    left: 262px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b6{
+    left: 308px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b7{
+    left: 348px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b8{
+    left: 399px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b9{
+    left: 441px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b10{
+    left: 488px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b11{
+    left: 537px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b12{
+    left: 579px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b13{
+    left: 625px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b13{
+    left: 629px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b14{
+    left: 671px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b15{
+    left:722px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b16{
+    left: 762px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b17{
+    left: 809px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b18{
+    left: 863px;
+    top: 184px;
+    position: absolute;
+    height: 15px;
+    background-color: #FFB3CF;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    line-height: 15px;
+}
+.b .b1 .b19{
+    margin-left: 4px;
+    margin-top: -35px;
+    width: 20px;
+    height: 20px;
+    background-image: url(哔哩哔哩素材/1ic15ns.png);
+    background-repeat: no-repeat;
+}
+.b .b1 .b20{
+    margin-left: 4px;
+    margin-top: -35px;
+    width: 20px;
+    height: 20px;
+    background-image: url(哔哩哔哩素材/1ico1ns.png);
+    background-repeat: no-repeat;
+}
+.b .b1 .b21{
+    margin-left: 4px;
+    margin-top: -35px;
+    width: 20px;
+    height: 20px;
+    background-image: url(哔哩哔哩素材/1icon15s.png);
+    background-repeat: no-repeat;
+}
+.b .b1 .b22{
+    margin-left: 10px;
+    margin-top: -35px;
+    width: 20px;
+    height: 20px;
+    background-image: url(哔哩哔哩素材/1ico66ns.png);
+    background-repeat: no-repeat;
+}
+.b .b1 .b225{
+    margin-top: -25px;
+}
+.b .b1 ul .bb:hover .b23{
+    display:block;
+}
+.b .b1 ul .bb:hover .b25{
+    display:block;
+}
+.b .b1 ul .bb:hover .b27{
+    display:block;
+}
+.b .b1 ul .bb:hover .b29{
+    display:block;
+}
+.b .b1 ul .bb:hover .b31{
+    display:block;
+}
+.b .b1 ul .bb:hover .b33{
+    display:block;
+}
+.b .b1 ul .bb:hover .b35{
+    display:block;
+}
+.b .b1 ul .bb:hover .b37{
+    display:block;
+}
+.b .b1 ul .bb:hover .b39{
+    display:block;
+}
+.b .b1 ul .bb:hover .b41{
+    display:block;
+}
+.b .b1 ul .bb:hover .b44{
+    display:block;
+}
+.b .b1 ul .bb:hover .b46{
+    display:block;
+}
+.b .b1 ul .bb:hover .b48{
+    display:block;
+}
+.b .b1 ul .bb:hover .b50{
+    display:block;
+}
+.b .b1 ul .bb:hover .b53{
+    display:block;
+}
+.b .b1 ul .bb:hover .b61{
+    display:block;
+}
+/* 悬浮显示 */
+.b23{
+    position: absolute;
+    z-index: 4;
+    left:200px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 130px;
+    height: 108px;
+    background-color: rgb(255, 255, 255);
+}
+.b23 .b24 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b23 .b24 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b25{
+    position: absolute;
+    z-index: 4;
+    left:250px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 130px;
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+}
+.b25 .b26 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b25 .b26 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b27{
+    position: absolute;
+    z-index: 4;
+    left:295px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 130px;
+    height: 188px;
+    background-color: rgb(255, 255, 255);
+}
+.b27 .b28 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b27 .b28 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b29{
+    position: absolute;
+    z-index: 4;
+    left:343px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 240px;
+    background-color: rgb(255, 255, 255);
+}
+.b29 .b30 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b29 .b30 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b31{
+    position: absolute;
+    z-index: 4;
+    left:387px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 81px;
+    background-color: rgb(255, 255, 255);
+}
+.b31 .b32 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b31 .b32 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b33{
+    position: absolute;
+    z-index: 4;
+    left:435px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 243px;
+    background-color: rgb(255, 255, 255);
+}
+.b33 .b34 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b33 .b34 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b35{
+    position: absolute;
+    z-index: 4;
+    left:483px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+}
+.b35 .b36 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b35 .b36 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b37{
+    position: absolute;
+    z-index: 4;
+    left:530px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 107px;
+    background-color: rgb(255, 255, 255);
+}
+.b37 .b38 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b37 .b38 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b39{
+    position: absolute;
+    z-index: 4;
+    left:575px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 215px;
+    background-color: rgb(255, 255, 255);
+}
+.b39 .b40 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b39 .b40 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b41{
+    position: absolute;
+    z-index: 4;
+    left:620px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 108px;
+    background-color: rgb(255, 255, 255);
+}
+.b41 .b43 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b41 .b43 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b44{
+    position: absolute;
+    z-index: 4;
+    left:667px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 135px;
+    background-color: rgb(255, 255, 255);
+}
+.b44 .b45 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b44 .b45 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b46{
+    position: absolute;
+    z-index: 4;
+    left:758px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 82px;
+    background-color: rgb(255, 255, 255);
+}
+.b46 .b47 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b46 .b47 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b48{
+    position: absolute;
+    z-index: 4;
+    left:805px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 135px;
+    background-color: rgb(255, 255, 255);
+}
+.b48 .b49 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b48 .b49 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b50{
+    position: absolute;
+    z-index: 4;
+    left:850px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+    width: 138px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+}
+.b50 .b51 li{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b50 .b51 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b52:hover{
+    color: #00EBE9;
+}
+.b53{
+    width: 387px;
+    height: 228px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 4;
+    left:960px;
+    top: 217px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+}
+.b53 .b54{
+    float: left;
+    height: 200px;
+    width: 130px;
+    margin-top: 15px;
+    border-right: 1px rgb(177, 177, 177) solid;
+}
+.b53 .b54 .b56 .b57{
+    padding-left: 30px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/icon-pc.png);
+    background-repeat: no-repeat;
+    background-position: 15px 8px;
+}
+.b53 .b54 .b56 .b57:hover{
+    padding-left: 40px;
+    background-image: url(哔哩哔哩素材/icon-pc.png);
+    background-repeat: no-repeat;
+    background-position: 25px 8px;
+    background-color: rgba(230, 230, 230, 0.8);
+}
+.b53 .b54 .b56 .b58{
+    padding-left: 35px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1icon45s.png);
+    background-repeat: no-repeat;
+    background-position: 13px 6px;
+}
+.b53 .b54 .b56 .b58:hover{
+    padding-left: 40px;
+    background-image: url(哔哩哔哩素材/1icon45s.png);
+    background-repeat: no-repeat;
+    background-position: 20px 6px;
+    background-color: rgba(230, 230, 230, 0.8);
+}
+.b53 .b54 .b56 .b59{
+    padding-left: 30px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ic54ons.png);
+    background-repeat: no-repeat;
+    background-position: 15px 8px;
+}
+.b53 .b54 .b56 .b59:hover{
+    padding-left: 40px;
+    background-image: url(哔哩哔哩素材/1ic54ons.png);
+    background-repeat: no-repeat;
+    background-position: 25px 8px;
+    background-color: rgba(230, 230, 230, 0.8);
+}
+.b53 .b54 .b56 .b60{
+    padding-left: 37px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico15ns.png);
+    background-repeat: no-repeat;
+    background-position: 15px 8px;
+}
+.b53 .b54 .b56 .b60:hover{
+    padding-left: 47px;
+    background-image: url(哔哩哔哩素材/1ico15ns.png);
+    background-repeat: no-repeat;
+    background-position: 25px 8px;
+    background-color: rgba(230, 230, 230, 0.8);
+}
+.b61{
+    width: 387px;
+    height: 228px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 4;
+    left:960px;
+    top: 217px;
+    display: none;
+    border-radius: 5px;
+    border:1px rgba(116, 112, 108,0.1) solid;
+    position: absolute;
+}
+.b63 {
+    float: left;
+    height: 200px;
+    width: 130px;
+    margin-top: 15px;
+    border-right: 1px rgb(177, 177, 177) solid;
+}
+.b61 .b63 .b62 li{
+    padding-left: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-repeat: no-repeat;
+    background-position: 3px 8px;
+}
+.b61 .b63 .b62 li:hover{
+    background-color: rgba(230, 230, 230, 0.8);
+    background-image: url(哔哩哔哩素材/1ico5ns.png);
+    background-position: 15px 8px;
+    padding-left: 30px;
+}
+.b55 ul li img{
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.b66 ul li img{
+    margin-top: 8px;
+    margin-left: 25px;
+}
+.b67:hover{
+    color: #00EBE9;
+}
+.b2{
+    position: absolute;
+    top: 230px;
+    left: 170px;
+}
+.b2 .b70{
+    width: 440px;
+    height: 220px;
+    border-radius: 5px;
+}
+.b70 iframe{
+    width: 440px;
+    height: 220px;
+    border: 0px;
+    border-radius: 5px;
+}
+.b71 ul li a .b72{
+    width: 15px;
+    height: 15px;
+    background-image: url(哔哩哔哩素材/1ic11o1ns.png);
+    background-repeat: no-repeat;
+    background-position: 1px 1px;
+    border-radius: 100px;
+    position: absolute;
+    z-index: 2;
+    left:300px;
+    top: 190px;
+}
+.b71 ul li a .b72:hover{
+    width: 20px;
+    height: 20px;
+    background-image: url(哔哩哔哩素材/1icons12.png);
+    background-repeat: no-repeat;
+}
+.b71 ul li a .b73{
+    width: 15px;
+    height: 15px;
+    background-image: url(哔哩哔哩素材/1ic11o1ns.png);
+    background-repeat: no-repeat;
+    background-position: 1px 1px;
+    border-radius: 100px;
+    position: absolute;
+    z-index: 2;
+    left:325px;
+    top: 190px;
+}
+.b71 ul li a .b73:hover{
+    width: 20px;
+    height: 20px;
+    background-image: url(哔哩哔哩素材/1icons12.png);
+    background-repeat: no-repeat;
+}
+.b71 ul li a .b74{
+    width: 15px;
+    height: 15px;
+    background-image: url(哔哩哔哩素材/1ic11o1ns.png);
+    background-repeat: no-repeat;
+    background-position: 1px 1px;
+    border-radius: 100px;
+    position: absolute;
+    z-index: 2;
+    left:350px;
+    top: 190px;
+}
+.b71 ul li a .b74:hover{
+    width: 20px;
+    height: 20px;
+    background-image: url(哔哩哔哩素材/1icons12.png);
+    background-repeat: no-repeat;
+}
+.b71 ul li a .b75{
+    width: 15px;
+    height: 15px;
+    background-image: url(哔哩哔哩素材/1ic11o1ns.png);
+    background-repeat: no-repeat;
+    background-position: 1px 1px;
+    border-radius: 100px;
+    position: absolute;
+    z-index: 2;
+    left:375px;
+    top: 190px;
+}
+.b71 ul li a .b75:hover{
+    width: 20px;
+    height: 20px;
+    background-image: url(哔哩哔哩素材/1icons12.png);
+    background-repeat: no-repeat;
+}
+.b72{
+    position: absolute;
+    left: 450px;
+    top: 1px;
+    width: 510px;
+    height: 220px;
+}
+.b72 .b74 ul li img{
+    margin: 5px;
+    float: left;
+    border-radius: 5px;
+}
+.b72 .b74 ul li .b75{
+    cursor: pointer;
+    position: absolute;
+    top: 86px;
+    left: 6px;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    box-shadow: 0px 0px 20px 0px #4b4949 inset;
+}
+.b72 .b74 ul li:hover .b75{
+    display: none;
+}
+.b72 .b74 ul li .b76{
+    cursor: pointer;
+    position: absolute;
+    top: 86px;
+    left: 175px;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    box-shadow: 0px 0px 20px 0px #4b4949 inset;
+}
+.b72 .b74 ul li:hover .b76{
+    display: none;
+}
+.b72 .b74 ul li .b77{
+    cursor: pointer;
+    position: absolute;
+    top: 86px;
+    left:347px;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    box-shadow: 0px 0px 20px 0px #4b4949 inset;
+}
+.b72 .b74 ul li:hover .b77{
+    display: none;
+}
+.b72 .b74 ul li .b78{
+    cursor: pointer;
+    position: absolute;
+    top: 196px;
+    left:7px;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    box-shadow: 0px 0px 20px 0px #4b4949 inset;
+}
+.b72 .b74 ul li:hover .b78{
+    display: none;
+}
+.b72 .b74 ul li .b79{
+    cursor: pointer;
+    position: absolute;
+    top: 196px;
+    left:174.5px;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    box-shadow: 0px 0px 20px 0px #4b4949 inset;
+}
+.b72 .b74 ul li:hover .b79{
+    display: none;
+}
+.b72 .b74 ul li .b80{
+    cursor: pointer;
+    position: absolute;
+    top: 196px;
+    left:348px;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    box-shadow: 0px 0px 20px 0px #4b4949 inset;
+}
+.b72 .b74 ul li:hover .b80{
+    display: none;
+}
+.b81{
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position:135px 75px;
+    display: none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    border-radius: 5px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 159px;
+    height: 100px;
+    background-color: rgba(71, 68, 68, 0.7)
+}
+.b81 span{
+    color: #acaeaf;
+}
+.b72 .b74 ul li:hover .b81{
+    display: block;
+    cursor: pointer;
+}
+.b82{
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position:135px 75px;
+    display: none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    border-radius: 5px;
+    position: absolute;
+    top: 5px;
+    left: 174px;
+    width: 159px;
+    height: 100px;
+    background-color: rgba(71, 68, 68, 0.7)
+}
+.b82 span{
+    color: #acaeaf;
+}
+.b72 .b74 ul li:hover .b82{
+    display: block;
+    cursor: pointer;
+}
+.b83{
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position:135px 75px;
+    display: none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    border-radius: 5px;
+    position: absolute;
+    top: 5px;
+    left: 348px;
+    width: 159px;
+    height: 100px;
+    background-color: rgba(71, 68, 68, 0.7)
+}
+.b83 span{
+    color: #acaeaf;
+}
+.b72 .b74 ul li:hover .b83{
+    display: block;
+    cursor: pointer;
+}
+.b84{
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position:135px 75px;
+    display: none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    border-radius: 5px;
+    position: absolute;
+    top: 115px;
+    left: 5px;
+    width: 159px;
+    height: 100px;
+    background-color: rgba(71, 68, 68, 0.7)
+}
+.b84 span{
+    color: #acaeaf;
+}
+.b72 .b74 ul li:hover .b84{
+    display: block;
+    cursor: pointer;
+}
+.b85{
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position:135px 75px;
+    display: none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    border-radius: 5px;
+    position: absolute;
+    top: 115px;
+    left: 176px;
+    width: 159px;
+    height: 100px;
+    background-color: rgba(71, 68, 68, 0.7)
+}
+.b85 span{
+    color: #acaeaf;
+}
+.b72 .b74 ul li:hover .b85{
+    display: block;
+    cursor: pointer;
+}
+.b86{
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position:135px 75px;
+    display: none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    border-radius: 5px;
+    position: absolute;
+    top: 115px;
+    left: 345px;
+    width: 159px;
+    height: 100px;
+    background-color: rgba(71, 68, 68, 0.7)
+}
+.b86 span{
+    color: #acaeaf;
+}
+.b72 .b74 ul li:hover .b86{
+    display: block;
+    cursor: pointer;
+}
+.b100{
+    width: 910px;
+    height: 45px;
+    margin-top: 300px;
+    margin-left: 170px;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-left: 50px;
+    background-image: url(哔哩哔哩素材/1ic51ons.png);
+    background-repeat: no-repeat;
+    background-position: 5px 13px;
+}
+.b100 .b101{
+    float: right;
+    width: 250px;
+    height: 35px;
+    background-color: #E5E9EF;
+    border-radius: 5px;
+    margin-right: 10px;
+    font-size: 5px;
+    text-align: center;
+    line-height: 35px;
+}
+.b100 .b101:hover{
+    color: rgb(94, 159, 233);
+    cursor: pointer;
+}
+.c{
+    margin-left: 170px;
+}
+.c ul li{
+    font-size: 10px;
+    float: left;
+    margin-left: 12px;
+}
+.c ul li:hover{
+    color: rgb(94, 159, 233);
+}
+.c .c1{
+    margin-left: 0px;
+}
+.c .c2 img{
+    margin-left: 10px;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+}
+.c3{
+    float: left;
+    margin-top: 200px;
+    margin-left: 170px;
+}
+.c3 img{
+    width: 955px;
+}
+.c4{
+    font-size: 25px;
+    margin-top: 650px;
+    padding-left: 220px;
+    background-image: url(哔哩哔哩素材/1icon415s.png);
+    background-repeat: no-repeat;
+    background-position: 180px 0px;
+}
+.c4 .c5{
+    margin-left: 20px;
+    font-size: 13px;
+    color: #99A2AA;
+    margin-top: -10px;
+}
+.c4 .c5 span{
+    color: rgb(107, 153, 240);
+}
+.c4 .c6{
+    padding-left: 18px;
+    font-size: 13px;
+    margin-left: 330px;
+    margin-top: -22px;
+    color: #6D757A;
+    background-image: url(哔哩哔哩素材/1ic4ons.png);
+    background-repeat: no-repeat;
+}
+.c4 .c7{
+    width: 100px;
+    height: 24px;
+    margin-left: 500px;
+    margin-top: -22px;
+    background-image: url(哔哩哔哩素材/1ico154ns.png);
+    font-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 15px;
+    line-height: 24px;
+    background-position: 0px 3px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-position: 0px 6px;
+    border: 1px rgba(147, 153, 158,0.5) solid;
+}
+.c4 .c7:hover{
+    background-color: rgba(147, 153, 158,0.5)
+}
+.c4 .c8{
+    color: #6E767C;
+    font-weight: bold;
+    width: 30px;
+    height: 24px;
+    margin-left: 630px;
+    margin-top: -26px;
+    font-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 15px;
+    line-height: 24px;
+    background-position: 0px 3px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-position: 0px 6px;
+    background-image: url(哔哩哔哩素材/1icon14s.png);
+    background-position-y: 3px;
+    background-position-x: 45px;
+    padding-right: 20px;
+    border: 1px rgba(147, 153, 158,0.5) solid;
+}
+.c4 .c8:hover{
+    background-position-x: 50px;
+    background-color: rgba(147, 153, 158,0.5)
+}
+.c4 .c9{
+    height: 25px;
+    font-size: 14px;
+    margin-left: 700px;
+    margin-top: -23px;
+    cursor: pointer;
+    background-image: url(哔哩哔哩素材/捕获.JPG);
+    background-repeat: no-repeat;
+    background-position: 153px 15px;
+}
+.c4 .c9 span{
+    color: #00A1D6;
+}
+.c10{
+    cursor: pointer;
+    position: absolute;
+    margin-left: 170px;
+    width: 720px;
+    height: 351px;
+}
+.c10 ul li{
+    border-radius: 5px;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 160px;
+    height: 100px;
+    padding-bottom: 40px;
+    float: left;
+}
+.c10 ul li img{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+}
+.c15,.c16,.c17,.c18{
+    margin-top: 100px;
+}
+.c10 ul .c11 .c19{
+    font-size: 13px;
+    position: absolute;
+    z-index: 2;
+    left: 0px;
+    top: 100px;
+    color: #ffffff;
+}
+.c10 ul .c11:hover .c19{
+    display: none;
+}
+.c10 ul .c11:hover{
+    color: rgb(61, 122, 172);
+}
+.c10 ul .c11 p{
+    font-size: 10px;
+    color: #99A2AA;
+}
+.c10 ul .c11:hover p{
+    display: none;
+}
+.c10 ul .c11 .c20{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+    background-color: rgb(89, 104, 103);
+    position: absolute;
+    z-index: 4;
+    top: 20px;
+    left: 0px;
+    display: none;
+}
+.c10 ul .c11:hover .c20{
+    display: inline-block;
+}
+.c10 ul .c12 p{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 2;
+    top: 140px;
+    font-size: 10px;
+    color: #99A2AA;
+}
+.c10 ul .c12:hover p{
+    display: none;
+}
+.c10 ul .c12 .c21{
+    font-size: 13px;
+    position: absolute;
+    z-index: 2;
+    left: 180px;
+    top: 100px;
+    color: #ffffff;
+}
+.c10 ul .c12:hover .c21{
+    display: none;
+}
+.c10 ul .c12 .c22{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+    background-color: rgb(89, 104, 103);
+    position: absolute;
+    z-index: 4;
+    top: 20px;
+    left: 180px;
+    display: none;
+}
+.c10 ul .c12:hover .c22{
+    display: inline-block;
+}
+
+.c10 ul .c13 p{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 2;
+    top: 140px;
+    font-size: 10px;
+    color: #99A2AA;
+}
+.c10 ul .c13:hover p{
+    display: none;
+}
+.c10 ul .c13 .c23{
+    font-size: 13px;
+    position: absolute;
+    z-index: 2;
+    left: 360px;
+    top: 100px;
+    color: #ffffff;
+}
+.c10 ul .c13:hover .c23{
+    display: none;
+}
+.c10 ul .c13 .c24{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+    background-color: rgb(89, 104, 103);
+    position: absolute;
+    z-index: 4;
+    top: 20px;
+    left: 360px;
+    display: none;
+}
+.c10 ul .c13:hover .c24{
+    display: inline-block;
+}
+
+.c10 ul .c14 p{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 2;
+    top: 140px;
+    font-size: 10px;
+    color: #99A2AA;
+}
+.c10 ul .c14:hover p{
+    display: none;
+}
+.c10 ul .c14 .c25{
+    font-size: 13px;
+    position: absolute;
+    z-index: 2;
+    left: 540px;
+    top: 100px;
+    color: #ffffff;
+}
+.c10 ul .c14:hover .c25{
+    display: none;
+}
+.c10 ul .c14 .c26{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+    background-color: rgb(89, 104, 103);
+    position: absolute;
+    z-index: 4;
+    top: 20px;
+    left: 540px;
+    display: none;
+}
+.c10 ul .c14:hover .c26{
+    display: inline-block;
+}
+
+.c10 ul .c15 p{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 2;
+    top: 300px;
+    font-size: 10px;
+    color: #99A2AA;
+}
+.c10 ul .c15:hover p{
+    display: none;
+}
+.c10 ul .c15 .c27{
+    font-size: 13px;
+    position: absolute;
+    z-index: 2;
+    left: 0px;
+    top: 260px;
+    color: #ffffff;
+}
+.c10 ul .c15:hover .c27{
+    display: none;
+}
+.c10 ul .c15 .c28{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+    background-color: rgb(89, 104, 103);
+    position: absolute;
+    z-index: 4;
+    top: 180px;
+    left: 0px;
+    display: none;
+}
+.c10 ul .c15:hover .c28{
+    display: inline-block;
+}
+
+.c10 ul .c16 p{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 2;
+    top: 300px;
+    font-size: 10px;
+    color: #99A2AA;
+}
+.c10 ul .c16:hover p{
+    display: none;
+}
+.c10 ul .c16 .c29{
+    font-size: 13px;
+    position: absolute;
+    z-index: 2;
+    left: 180px;
+    top: 260px;
+    color: #ffffff;
+}
+.c10 ul .c16:hover .c29{
+    display: none;
+}
+.c10 ul .c16 .c30{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+    background-color: rgb(89, 104, 103);
+    position: absolute;
+    z-index: 4;
+    top: 180px;
+    left:180px;
+    display: none;
+}
+.c10 ul .c16:hover .c30{
+    display: inline-block;
+}
+
+.c10 ul .c17 p{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 2;
+    top: 300px;
+    font-size: 10px;
+    color: #99A2AA;
+}
+.c10 ul .c17:hover p{
+    display: none;
+}
+.c10 ul .c17 .c31{
+    font-size: 13px;
+    position: absolute;
+    z-index: 2;
+    left: 360px;
+    top: 260px;
+    color: #ffffff;
+}
+.c10 ul .c17:hover .c31{
+    display: none;
+}
+.c10 ul .c17 .c32{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+    background-color: rgb(89, 104, 103);
+    position: absolute;
+    z-index: 4;
+    top: 180px;
+    left:360px;
+    display: none;
+}
+.c10 ul .c17:hover .c32{
+    display: inline-block;
+}
+
+.c10 ul .c18 p{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 2;
+    top: 300px;
+    font-size: 10px;
+    color: #99A2AA;
+}
+.c10 ul .c18:hover p{
+    display: none;
+}
+.c10 ul .c18 .c33{
+    font-size: 13px;
+    position: absolute;
+    z-index: 2;
+    left: 540px;
+    top: 260px;
+    color: #ffffff;
+}
+.c10 ul .c18:hover .c33{
+    display: none;
+}
+.c10 ul .c18 .c34{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+    background-color: rgb(89, 104, 103);
+    position: absolute;
+    z-index: 4;
+    top: 180px;
+    left:540px;
+    display: none;
+}
+.c10 ul .c18:hover .c34{
+    display: inline-block;
+}
+.c35{
+    width: 250px;
+    height: 50px;
+    background-color: rgba(0, 0, 0,0.5);
+    position: absolute;
+    left: 880px;
+    top: 1073px;
+    border-radius: 0px 0px 5px 5px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    z-index: 1;
+}
+.c36{
+    width: 250px;
+    height: 248px;
+    border-radius: 5px;
+    position: absolute;
+    left: 880px;
+    top: 875px;
+    z-index: -1px;
+}
+.c37{
+    margin-top: 275px;
+    margin-left: 875px;
+}
+.c38{
+    position: absolute;
+    width: 900px;
+    height: 50px;
+    padding-left: 60px;
+    margin-left: 170px;
+    font-size: 25px;
+    background-image: url(哔哩哔哩素材/1ic58ons.png);
+    background-repeat: no-repeat;
+    background-position: 20px 5px;
+    line-height: 50px;
+}
+.c38 p{
+    font-size: 13px;
+    display: inline-block;
+    cursor: pointer;
+    color: #00A1D6;
+    background-image: url(哔哩哔哩素材/捕获.JPG);
+    background-repeat: no-repeat;
+    background-position: 1px 30px;
+}
+.c38 p span{
+    color: rgb(0, 0, 0);
+}
+.c38 p span:hover{
+    color: #00A1D6;
+}
+.c39{
+    width: 100px;
+    height: 24px;
+    margin-left: 500px;
+    margin-top: -40px;
+    background-image: url(哔哩哔哩素材/1ico154ns.png);
+    font-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 15px;
+    line-height: 24px;
+    background-position: 0px 3px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-position: 0px 6px;
+    border: 1px rgba(147, 153, 158,0.5) solid;
+}
+.c39:hover{
+    background-color: rgba(147, 153, 158,0.5)
+}
+.c40{
+    color: #6E767C;
+    font-weight: bold;
+    width: 30px;
+    height: 24px;
+    margin-left: 630px;
+    margin-top: -27px;
+    font-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 15px;
+    line-height: 24px;
+    background-position: 0px 3px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-position: 0px 6px;
+    background-image: url(哔哩哔哩素材/1icon14s.png);
+    background-position-y: 3px;
+    background-position-x: 45px;
+    padding-right: 20px;
+    border: 1px rgba(147, 153, 158,0.5) solid;
+}
+.c40:hover{
+    background-position-x: 50px;
+    background-color: rgba(147, 153, 158,0.5)
+}
+.c38 .c41{
+    font-size: 20px;
+    position: absolute;
+    left: 760px;
+    top: 0px;
+}
+.c38 .c42{
+    font-size: 15px;
+    position: absolute;
+    left: 810px;
+    top: 0px;
+    width: 100px;
+    background-image: url(哔哩哔哩素材/捕获.JPG);
+    background-repeat: no-repeat;
+    background-position: -0px 35px;
+    padding-left: 10px;
+    color: #00A1D6;
+    cursor: pointer;
+}
+.c38 .c42 span{
+    color: rgb(0, 0, 0);
+}
+.c38 .c42 span:hover{
+    color: #00A1D6;
+}
+.c43{
+    cursor: pointer;
+    width: 750px;
+    height: 330px;
+    margin-top: 62px;
+    margin-left: 170px;
+}
+.c43 ul li{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+    float: left;
+    margin-right: 20px;
+}
+.c43 ul .c48{
+    margin-top:70px;
+}
+.c43 ul .c49{
+    margin-top:70px;
+}
+.c43 ul .c50{
+    margin-top:70px;
+}
+.c43 ul .c51{
+    margin-top:70px;
+}
+.c43 li img{
+    border-radius: 5px;
+    width: 160px;
+    height: 100px;
+}
+
+.c43 .c44{
+    position: relative;
+}
+.c43 .c44 p{
+    height: 40px;
+    font-size: 12px;
+}
+.c43 .c44 .c52{
+    position: absolute;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+}
+.c43 .c44 .c52 .c53{
+    background-image: url(哔哩哔哩素材/1ic47ons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    display: inline-block;
+    width: 70px;
+    height: 14px;
+}
+.c43 .c44 .c52 .c54{
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    float: right;
+    width: 70px;
+    height: 14px;
+    margin-left: 10px;
+    margin-top: 6px;
+    background-image: url(哔哩哔哩素材/1i47cons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+}
+.c43 .c44:hover .c52{
+    display: none;
+}
+.c55{
+    border-radius: 5px;
+    width: 160px;
+    height: 25px;
+    background-color: rgba(0, 0, 0,0.2);
+    position: absolute;
+    top: 0px;
+    padding-top: 75px;
+    color: rgb(255, 255, 255);
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position: 130px 70px;
+    display: none;
+}
+.c43 .c44:hover .c55{
+    display: inline-block;
+}
+
+.c43 .c45{
+    position: relative;
+}
+.c43 .c45 p{
+    height: 40px;
+    font-size: 12px;
+}
+.c43 .c45 .c56{
+    position: absolute;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+}
+.c43 .c45 .c56 .c57{
+    background-image: url(哔哩哔哩素材/1ic47ons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    display: inline-block;
+    width: 70px;
+    height: 14px;
+}
+.c43 .c45 .c56 .c58{
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    float: right;
+    width: 70px;
+    height: 14px;
+    margin-left: 10px;
+    margin-top: 6px;
+    background-image: url(哔哩哔哩素材/1i47cons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+}
+.c43 .c45:hover .c56{
+    display: none;
+}
+.c59{
+    border-radius: 5px;
+    width: 160px;
+    height: 25px;
+    background-color: rgba(0, 0, 0,0.2);
+    position: absolute;
+    top: 0px;
+    padding-top: 75px;
+    color: rgb(255, 255, 255);
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position: 130px 70px;
+    display: none;
+}
+.c43 .c45:hover .c59{
+    display: inline-block;
+}
+
+.c43 .c46{
+    position: relative;
+}
+.c43 .c46 p{
+    height: 40px;
+    font-size: 12px;
+}
+.c43 .c46 .c60{
+    position: absolute;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+}
+.c43 .c46 .c60 .c61{
+    background-image: url(哔哩哔哩素材/1ic47ons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    display: inline-block;
+    width: 70px;
+    height: 14px;
+}
+.c43 .c46 .c60 .c62{
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    float: right;
+    width: 70px;
+    height: 14px;
+    margin-left: 10px;
+    margin-top: 6px;
+    background-image: url(哔哩哔哩素材/1i47cons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+}
+.c43 .c46:hover .c60{
+    display: none;
+}
+.c63{
+    border-radius: 5px;
+    width: 160px;
+    height: 25px;
+    background-color: rgba(0, 0, 0,0.2);
+    position: absolute;
+    top: 0px;
+    padding-top: 75px;
+    color: rgb(255, 255, 255);
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position: 130px 70px;
+    display: none;
+}
+.c43 .c46:hover .c63{
+    display: inline-block;
+}
+
+.c43 .c47{
+    position: relative;
+}
+.c43 .c47 p{
+    height: 40px;
+    font-size: 12px;
+}
+.c43 .c47 .c64{
+    position: absolute;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+}
+.c43 .c47 .c64 .c65{
+    background-image: url(哔哩哔哩素材/1ic47ons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    display: inline-block;
+    width: 70px;
+    height: 14px;
+}
+.c43 .c47 .c64 .c66{
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    float: right;
+    width: 70px;
+    height: 14px;
+    margin-left: 10px;
+    margin-top: 6px;
+    background-image: url(哔哩哔哩素材/1i47cons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+}
+.c43 .c47:hover .c64{
+    display: none;
+}
+.c67{
+    border-radius: 5px;
+    width: 160px;
+    height: 25px;
+    background-color: rgba(0, 0, 0,0.2);
+    position: absolute;
+    top: 0px;
+    padding-top: 75px;
+    color: rgb(255, 255, 255);
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position: 130px 70px;
+    display: none;
+}
+.c43 .c47:hover .c67{
+    display: inline-block;
+}
+
+.c43 .c48{
+    position: relative;
+}
+.c43 .c48 p{
+    height: 40px;
+    font-size: 12px;
+}
+.c43 .c48 .c68{
+    position: absolute;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+}
+.c43 .c48 .c68 .c69{
+    background-image: url(哔哩哔哩素材/1ic47ons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    display: inline-block;
+    width: 70px;
+    height: 14px;
+}
+.c43 .c48 .c68 .c70{
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    float: right;
+    width: 70px;
+    height: 14px;
+    margin-left: 10px;
+    margin-top: 6px;
+    background-image: url(哔哩哔哩素材/1i47cons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+}
+.c43 .c48:hover .c68{
+    display: none;
+}
+.c71{
+    border-radius: 5px;
+    width: 160px;
+    height: 25px;
+    background-color: rgba(0, 0, 0,0.2);
+    position: absolute;
+    top: 0px;
+    padding-top: 75px;
+    color: rgb(255, 255, 255);
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position: 130px 70px;
+    display: none;
+}
+.c43 .c48:hover .c71{
+    display: inline-block;
+}
+
+.c43 .c49{
+    position: relative;
+}
+.c43 .c49 p{
+    height: 40px;
+    font-size: 12px;
+}
+.c43 .c49 .c72{
+    position: absolute;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+}
+.c43 .c49 .c72 .c73{
+    background-image: url(哔哩哔哩素材/1ic47ons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    display: inline-block;
+    width: 70px;
+    height: 14px;
+}
+.c43 .c49 .c72 .c74{
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    float: right;
+    width: 70px;
+    height: 14px;
+    margin-left: 10px;
+    margin-top: 6px;
+    background-image: url(哔哩哔哩素材/1i47cons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+}
+.c43 .c49:hover .c72{
+    display: none;
+}
+.c75{
+    border-radius: 5px;
+    width: 160px;
+    height: 25px;
+    background-color: rgba(0, 0, 0,0.2);
+    position: absolute;
+    top: 0px;
+    padding-top: 75px;
+    color: rgb(255, 255, 255);
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position: 130px 70px;
+    display: none;
+}
+.c43 .c49:hover .c75{
+    display: inline-block;
+}
+
+.c43 .c50{
+    position: relative;
+}
+.c43 .c50 p{
+    height: 40px;
+    font-size: 12px;
+}
+.c43 .c50 .c76{
+    position: absolute;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+}
+.c43 .c50 .c76 .c77{
+    background-image: url(哔哩哔哩素材/1ic47ons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    display: inline-block;
+    width: 70px;
+    height: 14px;
+}
+.c43 .c50 .c76 .c78{
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    float: right;
+    width: 70px;
+    height: 14px;
+    margin-left: 10px;
+    margin-top: 6px;
+    background-image: url(哔哩哔哩素材/1i47cons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+}
+.c43 .c50:hover .c76{
+    display: none;
+}
+.c79{
+    border-radius: 5px;
+    width: 160px;
+    height: 25px;
+    background-color: rgba(0, 0, 0,0.2);
+    position: absolute;
+    top: 0px;
+    padding-top: 75px;
+    color: rgb(255, 255, 255);
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position: 130px 70px;
+    display: none;
+}
+.c43 .c50:hover .c79{
+    display: inline-block;
+}
+
+.c43 .c51{
+    position: relative;
+}
+.c43 .c51 p{
+    height: 40px;
+    font-size: 12px;
+}
+.c43 .c51 .c80{
+    position: absolute;
+    top: 120px;
+    background-color: rgb(255, 255, 255);
+}
+.c43 .c51 .c80 .c81{
+    background-image: url(哔哩哔哩素材/1ic47ons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    display: inline-block;
+    width: 70px;
+    height: 14px;
+}
+.c43 .c51 .c80 .c82{
+    text-align: center;
+    line-height: 12px;
+    font-size: 12px;
+    float: right;
+    width: 70px;
+    height: 14px;
+    margin-left: 10px;
+    margin-top: 6px;
+    background-image: url(哔哩哔哩素材/1i47cons.png);
+    background-repeat: no-repeat;
+    background-position-y: 1px;
+}
+.c43 .c51:hover .c80{
+    display: none;
+}
+.c83{
+    border-radius: 5px;
+    width: 160px;
+    height: 25px;
+    background-color: rgba(0, 0, 0,0.2);
+    position: absolute;
+    top: 0px;
+    padding-top: 75px;
+    color: rgb(255, 255, 255);
+    background-image: url(哔哩哔哩素材/下载.png);
+    background-repeat: no-repeat;
+    background-position: 130px 70px;
+    display: none;
+}
+.c43 .c51:hover .c83{
+    display: inline-block;
+}
+
+.c84{
+    cursor: pointer;
+    width: 260px;
+    height: 300px;
+    position: absolute;
+    left: 880px;
+    top: 1225px;
+}
+.c84 ul li{
+    line-height: 20px;
+    margin-top: 13px;
+    font-size: 10px;
+    text-align: left;
+    padding-left: 25px;
+}
+.c84 ul li:hover{
+    color: #00A1D6;
+}
+.c84 ul li .c92{
+    text-align: center;
+    line-height: 20px;
+    border-radius: 3px;
+    width: 20px;
+    height: 20px;
+    background-color: #F25D8E;
+    color: rgb(255, 255, 255);
+    font: normal bold 15px "微软雅黑";
+    position: absolute;
+    left: 0px;
+}
+.c84 ul li .c93{
+    float: left;
+}
+.c84 ul li .c93 img{
+    border-radius: 3px;
+}
+.c84 ul li span{
+    color: #99A2AA;
+    font-size: 13px;
+    margin-left: 10px;
+}
+.c84 ul li .c94{
+    text-align: center;
+    line-height: 20px;
+    border-radius: 3px;
+    width: 20px;
+    height: 20px;
+    background-color: #B8C0CC;
+    color: rgb(255, 255, 255);
+    font: normal bold 15px "微软雅黑";
+    position: absolute;
+    left: 0px;
+}
+.c84 ul .c95{
+    font-size: 13px;
+    text-align: center;
+    line-height: 26px;
+    margin-top: 20px;
+    width: 260px;
+    height: 26px;
+    background-color: #CCD0D7;
+    border-radius: 3px;
+}
+.c84 ul .c95:hover{
+    background-color: rgb(172, 177, 184);
+}
+.c96{
+    margin-left: 170px;
+}
+.c96 img{
+    width: 970px;
+}
+.c97{
+    cursor: pointer;
+    height: 50px;
+    width: 100%;
+    margin-left: 170px;
+    font-size: 25px;
+    line-height: 50px;
+    padding-left: 75px;
+    background-image: url(哔哩哔哩素材/1icon154s.png);
+    background-repeat: no-repeat;
+    background-position: 30px 5px;
+}
+.c97 p{
+    color: #00A1D6;
+    font-size: 20px;
+    display: inline-block;
+}
+.c98,.c99,.c100,.c101,.c102,.c103,.c104,.c105{
+    color: rgb(0, 0, 0);
+}
+.c98:hover{
+    color: #00A1D6;
+}
+.c99:hover{
+    color: #00A1D6;
+}
+.c100:hover{
+    color: #00A1D6;
+}
+.c101:hover{
+    color: #00A1D6;
+}
+.c102:hover{
+    color: #00A1D6;
+}
+.c103:hover{
+    color: #00A1D6;
+}
+.c104:hover{
+    color: #00A1D6;
+}
+.c105:hover{
+    color: #00A1D6;
+}
+.c106{
+    width: 120px;
+    height: 35px;
+    font-size: 18px;
+    display: inline-block;
+    border-radius: 3px;
+    border: 1px #F580A6 solid;
+    line-height: 35px;
+    text-align: center;
+    color: #F580A6;
+}
+.c106:hover{
+    background-color: #F580A6;
+    color: rgb(255, 255, 255);
+}
+.c107{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.c108 form{
+    display: inline-block;
+    margin-left: 160px;
+}
+.c108 form select{
+    width: 55px;
+    height: 25px;
+    border-radius: 5px;
+}
+.c109{
+    overflow: inherit;
+    width: 700px;
+    height: 400px;
+    margin-left: 170px;
+    margin-top: 10px;
+}
+.c109 ul li{
+    cursor: pointer;
+    width: 180px;
+    height: 72px;
+    float: left;
+    margin:27px 20px;
+}
+.c109 ul li img{
+    width: 72px;
+    height: 72px;
+    border-radius: 5px;
+}
+.c110{
+    position: relative;
+}
+.c111{
+    position: relative;
+}
+.c112{
+    position: relative;
+}
+.c113{
+    position: relative;
+}
+.c114{
+    position: relative;
+}
+.c115{
+    position: relative;
+}
+.c116{
+    position: relative;
+}
+.c117{
+    position: relative;
+}
+.c118{
+    position: relative;
+}
+.c119{
+    position: relative;
+}
+.c120{
+    position: relative;
+}
+.c121{
+    position: relative;
+}
+.c122{
+    position: relative;
+}
+.c123{
+    position: relative;
+}
+.c124{
+    position: relative;
+}
+.c125{
+    position: relative;
+}
+.c109 ul li p{
+    font-size: 13px;
+    width: 96px;
+    height: 36px;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: 85px;
+}
+.c109 ul li p:hover{
+    color: #00A1D6;
+}
+.c109 ul li div{
+    width: 50px;
+    height: 20px;
+    background-color: #FF8EB3;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 85px;
+}
+.c109 .c110{
+    margin-top: 0px;
+}
+.c109 .c111{
+    margin-top: 0px;
+}
+.c109 .c112{
+    margin-top: 0px;
+}
+.c130{
+    cursor: pointer;
+    width: 260px;
+    height: 300px;
+    position: absolute;
+    left: 880px;
+    top: 1705px;
+}
+.c130 ul li{
+    line-height: 20px;
+    margin-top: 13px;
+    font-size: 10px;
+    text-align: left;
+    padding-left: 25px;
+}
+.c130 ul li:hover{
+    color: #00A1D6;
+}
+.c130 ul li .c92{
+    text-align: center;
+    line-height: 20px;
+    border-radius: 3px;
+    width: 20px;
+    height: 20px;
+    background-color: #F25D8E;
+    color: rgb(255, 255, 255);
+    font: normal bold 15px "微软雅黑";
+    position: absolute;
+    left: 0px;
+}
+.c130 ul li .c93{
+    float: left;
+}
+.c130 ul li .c93 img{
+    border-radius: 3px;
+}
+.c130 ul li span{
+    color: #99A2AA;
+    font-size: 13px;
+    margin-left: 10px;
+}
+.c130 ul li .c94{
+    text-align: center;
+    line-height: 20px;
+    border-radius: 3px;
+    width: 20px;
+    height: 20px;
+    background-color: #B8C0CC;
+    color: rgb(255, 255, 255);
+    font: normal bold 15px "微软雅黑";
+    position: absolute;
+    left: 0px;
+}
+.c130 ul .c95{
+    font-size: 13px;
+    text-align: center;
+    line-height: 26px;
+    margin-top: 20px;
+    width: 260px;
+    height: 26px;
+    background-color: #CCD0D7;
+    border-radius: 3px;
+}
+.c130 ul .c95:hover{
+    background-color: rgb(172, 177, 184);
+}
+.c131{
+    position: absolute;
+    width: 900px;
+    height: 50px;
+    padding-left: 30px;
+    margin-left: 170px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 20px 5px;
+    line-height: 50px;
+}
+.c131 p{
+    font-size: 13px;
+    display: inline-block;
+    cursor: pointer;
+    color: #00A1D6;
+    background-image: url(哔哩哔哩素材/捕获.JPG);
+    background-repeat: no-repeat;
+    background-position: 1px 30px;
+}
+.c131 p span{
+    color: rgb(0, 0, 0);
+}
+.c131 p span:hover{
+    color: #00A1D6;
+}
+.c131 .c41{
+    font-size: 20px;
+    position: absolute;
+    left: 760px;
+    top: 0px;
+}
+.c132{
+    margin-top: 80px;
+}
+.c133{
+    position: absolute;
+    left: 890px;
+    top: 2190px;
+    border-radius: 5px;
+}
+.c134{
+    background-image: url(哔哩哔哩素材/1ico147ns.png);
+}
+.c135{
+    height: 360px;
+}
+.c136{
+    position: absolute;
+    top: 2570px;
+}
+.c137{
+    width: 260px;
+    height: 90px;
+    border-radius: 5px;
+    position: absolute;
+    left: 880px;
+    top: 2820px;
+}
+.c138{
+    position: absolute;
+    top: 3005px;
+}
+.c131 .c42{
+    font-size: 15px;
+    position: absolute;
+    left: 810px;
+    top: 0px;
+    width: 100px;
+    background-image: url(哔哩哔哩素材/捕获.JPG);
+    background-repeat: no-repeat;
+    background-position: -0px 35px;
+    padding-left: 10px;
+    color: #00A1D6;
+    cursor: pointer;
+}
+.c131 .c42 span{
+    color: rgb(0, 0, 0);
+}
+.c131 .c42 span:hover{
+    color: #00A1D6;
+}
+.c140{
+    padding-left: 60px;
+    background-image: url(哔哩哔哩素材/1i17cons.png);
+}
+.c141{
+    position: absolute;
+    top: 3420px;
+}
+.c142{
+    padding-left: 60px;
+    background-image: url(哔哩哔哩素材/1icon17s.png);
+}
+.c143{
+    position: absolute;
+    top: 3830px;
+}
+.c144{
+    padding-left: 60px;
+    background-image: url(哔哩哔哩素材/1ico45ns.png);
+}
+.c145{
+    position: absolute;
+    top: 4240px;
+}
+.c146{
+    padding-left: 60px;
+    background-image: url(哔哩哔哩素材/11icons.png);
+}
+.c147{
+    position: absolute;
+    top: 4650px;
+}
+.c150{
+    height: 280px;
+    position:fixed;
+    top:250px;
+    right: 120px;
+    background-color: #F6F9FA;
+    border-radius: 5px;
+    border: 1px #E5E9EF solid;
+}
+.c150 ul a li{
+    padding: 7px 0px;
+    width: 50px;
+    text-align: center;
+}
+.c150 ul a li:hover{
+    background-color: #00A1D6;
+    color: rgb(255, 255, 255);
+}
+.c150 ul a li{
+    color: #2C2C2C;
+}
+.c150 ul a .c155{
+    width: 48px;
+    height: 25px;
+    background-color: #F6F9FA;
+    border: 1px #E5E9EF solid;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-image: url(哔哩哔哩素材/1ico25ns.png);
+    background-position: 14px 15px;
+    background-repeat: no-repeat;
+}
+.c157{
+    position:fixed;
+    top:610px;
+    right: 115px;
+    width: 62px;
+    height: 44px;
+    z-index: 5;
+}
+.c157:hover .c156{
+    display: none;
+}
+.c158{
+    display: none;
+    position: absolute;
+    top: -18px;
+    left: -5px;
+}
+.c157:hover .c158{
+    display: inline-block;
+}
+.c157:hover .c159{
+    display: inline-block;
+}
+.c159{
+    display: none;
+    position: absolute;
+    top: -30px;
+    left: -110px;
+}
+#thb:hover img{
+    width: 30px;
+    height: 30px;
+}

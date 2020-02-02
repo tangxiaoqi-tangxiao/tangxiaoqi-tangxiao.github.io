@@ -1,0 +1,369 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.xb{
+    width: 100%;
+    height: 768px;
+    background-image: url(哔哩哔哩素材/d4fab7a666bc627cc2bcb4f00aa6d2a7958cee80.png@1366w.jpg);
+}
+.xb .xb1{
+    cursor: pointer;
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0, 0, 0,0.2)
+}
+.xb .xb1 ul{
+    margin-left: 100px;
+}
+.xb .xb1 ul li{
+    float: left;
+    padding-left: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 15px 20px;
+}
+.xb .xb1 ul .xb2{
+    background-image:url(哔哩哔哩素材/下载484.png);
+    background-repeat: no-repeat;
+    background-position: 0px 18px;
+}
+.xb .xb1 ul .xb2 a{
+    color: rgb(255, 255, 255);
+}
+.xb .xb1 ul .xb3{
+    color: #FB7299;
+}
+.xb .xb1 ul .xb3:hover{
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.xb .xb1 ul .xb4 .xb5{
+    color: rgb(138, 138, 133);
+    width: 152px;
+    height: 136px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 0px 10px 10px;
+    position: absolute;
+    top: 50px;
+    left: 270px;
+    display: none;
+}
+.xb .xb1 ul .xb4:hover .xb5{
+    display: inline-block;
+}
+.xb .xb1 ul .xb4 .xb5 p{
+    padding-left: 20px;
+    height: 43px;
+    line-height: 43px;
+}
+.xb .xb1 ul .xb4 .xb5 p:hover{
+    cursor: pointer;
+    color: #FB7299;
+    background-color: rgba(182, 182, 182,0.5)
+}
+
+.xb .xb1 ul .xb7 .xb6{
+    color: rgb(138, 138, 133);
+    width: 152px;
+    height: 92px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 0px 10px 10px;
+    position: absolute;
+    top: 50px;
+    left: 340px;
+    display: none;
+}
+.xb .xb1 ul .xb7:hover .xb6{
+    display: inline-block;
+}
+.xb .xb1 ul .xb7 .xb6 p{
+    padding-left: 20px;
+    height: 43px;
+    line-height: 43px;
+}
+.xb .xb1 ul .xb7 .xb6 p:hover{
+    cursor: pointer;
+    color: #FB7299;
+    background-color: rgba(182, 182, 182,0.5)
+}
+.xb8{
+    float: left;
+    margin-top: 10px;
+}
+.xb8 form input{
+    color: #BEC4C9;
+    width: 230px;
+    height: 30px;
+    border-radius: 100px;
+    background-color: #28273E;
+    border: 0;
+    padding-left: 20px;
+}
+.xb8 .xb9{
+    width: 23px;
+    height: 23px;
+    background-image: url(哔哩哔哩素材/14捕获.JPG);
+    background-repeat: no-repeat;
+    position: absolute;
+    left:818px;
+    top: 15px;
+}
+.xb10 .xb11{
+    margin-left: 50px;
+}
+.xb10 li img{
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    padding-top: -20px;
+    position: absolute;
+    top: 5px;
+    right: 430px;
+}
+.xb12{
+    width: 80px;
+    height: 60px;
+    background-color: #FD74A2;
+    position: absolute;
+    left: 1170px;
+    top: 0px;
+    border-radius: 0px 0px 10px 10px;
+    color: rgb(255, 255, 255);
+    font: normal normal 22px "微软雅黑";
+    text-align: center;
+    line-height: 60px;
+    cursor: pointer;
+}
+.xb13 img{
+    position: absolute;
+    width: 500px;
+    top: 270px;
+    left: 400px;
+}
+.xb14{
+    position: absolute;
+    top: 500px;
+    left: 400px;
+}
+.xb14 .xb15{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 74px;
+    display: inline-block;
+    width: 183px;
+    height: 74px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px rgba(255, 255, 255,0.2) solid;
+}
+.xb14 .xb15:hover{
+    cursor: pointer;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 74px;
+    display: inline-block;
+    width: 183px;
+    height: 74px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: 1px rgba(255, 255, 255,0.2) solid;
+}
+.xb14 .xb16{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 74px;
+    display: inline-block;
+    width: 183px;
+    height: 74px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px rgba(255, 255, 255,0.2) solid;
+    margin-left: 130px;
+}
+.xb14 .xb16:hover{
+    cursor: pointer;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 74px;
+    display: inline-block;
+    width: 183px;
+    height: 74px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: 1px rgba(255, 255, 255,0.2) solid;
+    margin-left: 130px;
+}
+.xb17 img{
+    width: 100%;
+}
+.xb18{
+    position: absolute;
+    width: 100%;
+    height: 317px;
+    background-image: url(哔哩哔哩素材/下载47.png);
+    background-repeat: no-repeat;
+    background-position: 115px 40px;
+}
+.xb18 .xb19{
+    border-right:1px rgb(136, 138, 139) solid;
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    cursor: pointer;
+    width: 400px;
+}
+.xb18 .xb19 ul li{
+    color: rgb(136, 138, 139);
+    float: left;
+    margin: 10px 20px;
+}
+.xb18 .xb19 ul li:hover{
+    color: #26ABE2;
+}
+.xb20{
+    cursor: pointer;
+    width: 300px;
+    position: absolute;
+    top: 80px;
+    left: 550px;
+}
+.xb20 ul li{
+    color: rgb(136, 138, 139);
+    float: left;
+    margin:10px 20px;
+}
+.xb20 ul li:hover{
+    color: #26ABE2;
+}
+.xbb11{
+    background-color: #F5F6F8;
+}
+.xb21{
+    height: 100px;
+    margin-top: 200px;
+    padding-left: 210px;
+    background-image: url(哔哩哔哩素材/icon-4footer.cc984c9.png);
+    background-repeat: no-repeat;
+    background-position-x: 80px;
+}
+.xb21 .xb22{
+    display: inline-block;
+    color: rgb(136, 138, 139);
+    width: 300px;
+    font-size: 13px;
+}
+.xb21 .xb23{
+    display: inline-block;
+    color: rgb(136, 138, 139);
+    width: 300px;
+    font-size: 13px;
+}
+.xb24 ul .xb25{
+    width: 60px;
+    height: 60px;
+    background-image: url(哔哩哔哩素材/icon47-foo5r.cc984c9.png);
+    background-repeat: no-repeat;
+}
+.xb24 ul .xb25:hover{
+    width: 60px;
+    height: 60px;
+    background-image: url(哔哩哔哩素材/icon-foo5r.cc984c9.png);
+    background-repeat: no-repeat;
+}
+.xb24 ul .xb26{
+    width: 60px;
+    height: 60px;
+    background-image: url(哔哩哔哩素材/icon-4fo58er.cc984c9.png);
+    background-repeat: no-repeat;
+}
+.xb24 ul .xb26:hover{
+    width: 60px;
+    height: 60px;
+    background-image: url(哔哩哔哩素材/icon-fo58er.cc984c9.png);
+    background-repeat: no-repeat;
+}
+.xb24 ul .xb27{
+    width: 60px;
+    height: 60px;
+    background-image: url(哔哩哔哩素材/icon-f58ter.cc984c9.png);
+    background-repeat: no-repeat;
+}
+.xb24 ul .xb27:hover{
+    width: 60px;
+    height: 60px;
+    background-image: url(哔哩哔哩素材/ic45on-footer.cc984c9.png);
+    background-repeat: no-repeat;
+}
+.xb24 ul .xb28{
+    width: 60px;
+    height: 60px;
+    background-image: url(哔哩哔哩素材/icon-fo747oter.cc984c9.png);
+    background-repeat: no-repeat;
+}
+.xb24 ul .xb28:hover{
+    width: 60px;
+    height: 60px;
+    background-image: url(哔哩哔哩素材/icon-foot4er.cc984c9.png);
+    background-repeat: no-repeat;
+}
+.xb24{
+    width: 300px;
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+}
+.xb24 ul li{
+    float: left;
+    margin:20px 30px;
+}
+.xb29{
+    position: absolute;
+    top: 90px;
+    left: -15px;
+}
+.xb24 .xb29 li{
+    font-size: 15px;
+    margin: 0px 20px;
+    color: rgb(136, 138, 139);
+}
+.xb30{
+    position: absolute;
+    top: 190px;
+    left: 0px;
+}
+.xb24 .xb30 li{
+    font-size: 15px;
+    margin: 0px 30px;
+    color: rgb(136, 138, 139);
+}
+.xb24 ul .xb25 img{
+    position: absolute;
+    left: -150px;
+    top: -30px;
+    display: none;
+}
+.xb24 ul .xb25:hover img{
+    display: inline-block;
+}
+.xb24 ul .xb27 img{
+    position: absolute;
+    left: -150px;
+    top: 80px;
+    display: none;
+}
+.xb24 ul .xb27:hover img{
+    display: inline-block;
+}
+.xb24 ul .xb28 img{
+    position: absolute;
+    left: -20px;
+    top: 80px;
+    display: none;
+    z-index: 3;
+}
+.xb24 ul .xb28:hover img{
+    display: inline-block;
+}
